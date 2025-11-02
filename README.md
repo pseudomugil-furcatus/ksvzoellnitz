@@ -1,2 +1,2 @@
 # ksvzoellnitz
-Webautritt des Kegelsportvereins Rot-Weiss Zöllnitz
+Dieses Projekt hostet den Webautritt des Kegelsportvereins Rot-Weiss Zöllnitz (http://ksvzoellnitz.de).
